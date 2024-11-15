@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to the Microservices-Udemy tutorial cards QA APIs"
+  contactDetails:
+    name: "Kishore"
+    email: "kishore@microservice.com"
+  onCallSupport:
+    - (555) 623-7647
+    - (555) 452-8456
+
+

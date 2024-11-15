@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the Microservices-Udemy tutorial QA APIs"
+  contactDetails:
+    name: "Mike Hussey"
+    email: "mike@microservice.com"
+  onCallSupport:
+    -(555) 623-7647
+
+

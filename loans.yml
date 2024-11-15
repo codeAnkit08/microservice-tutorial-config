@@ -1,0 +1,15 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to the Microservices-Udemy tutorial loans microservice"
+  contactDetails:
+    name: "Mukesh Verma"
+    email: "mukesh@microservice.com"
+  onCallSupport:
+    - (555) 623-7643
+    - (555) 865-5234
+
+
+
+

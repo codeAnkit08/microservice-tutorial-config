@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to the Microservices-Udemy tutorial loans Prod APIs"
+  contactDetails:
+    name: "Gunjan Arora"
+    email: "gunjan@microservice.com"
+  onCallSupport:
+    - (555) 656-6423
+    - (555) 623-6532
+
+

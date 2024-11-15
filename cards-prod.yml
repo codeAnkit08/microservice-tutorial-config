@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to the Microservices-Udemy tutorial cards Prod APIs"
+  contactDetails:
+    name: "Suresh Mahajan"
+    email: "suresh@microservice.com"
+  onCallSupport:
+    - (555) 465-3232
+    - (555) 788-1321
+
+

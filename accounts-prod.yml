@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the Microservices-Udemy tutorial Prod APIs"
+  contactDetails:
+    name: "David Warner"
+    email: "david@microservice.com"
+  onCallSupport:
+    - (555) 623-7648
+
+

@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to the Microservices-Udemy cards microservice tutorial"
+  contactDetails:
+    name: "Karthik Sharma"
+    email: "karthik@microservice.com"
+  onCallSupport:
+    - (555) 879-7785
+    - (555) 434-7231
+
