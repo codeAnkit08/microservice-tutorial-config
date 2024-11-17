@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the Microservices-Udemy tutorial Prod APIs"
+  message: "Welcome to the Microservices-Udemy tutorial Production APIs"
   contactDetails:
     name: "David Warner"
     email: "{cipher}9f95ea3e35067123588b6164cb75e3f0221381f1e947241d66f035ab1d0623a4c4bb3b3e4825db8010ada0b166ef64ce"
