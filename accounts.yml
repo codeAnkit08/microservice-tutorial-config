@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to the Microservices-Udemy tutorial"
+  message: "Welcome to the Microservices-Udemy docker tutorial"
   contactDetails:
     name: "John Carter"
     email: "john@microservice.com"
